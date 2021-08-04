@@ -127,6 +127,8 @@ dist/
 tmp/
 temp/
 
+.DS_Store
+
 # Suitest credentials
 .suitestrc
 
