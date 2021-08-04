@@ -1,0 +1,16 @@
+{
+  "name": "demo-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "interactive": "suitest interactive node test.watchme-demo.samsung-tv.js",
+    "automated": "suitest automated node test.watchme-demo.samsung-tv.js"
+  },
+  "keywords": [],
+  "author": "Wizeline",
+  "license": "ISC",
+  "dependencies": {
+    "suitest-js-api": "^2.4.1"
+  }
+}

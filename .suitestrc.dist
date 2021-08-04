@@ -1,0 +1,10 @@
+{
+    "username": "user@discovery.com",
+    "password": "write your password!",
+    "orgId": "write your organization!",
+    "appConfigId": "write your configuration!",
+    "deviceId": "write your device!",
+    "tokenKey": "write your token key!",
+    "tokenPassword": "write your token password!",
+    "testPackId": "write your test pack id!"
+}

@@ -1,5 +1,3 @@
-# suitest-demo-tests
-
 suitest interactive \
 -u user@discovery.com \
 -p <password> \
