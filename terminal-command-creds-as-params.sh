@@ -4,4 +4,4 @@ suitest interactive \
 -o <organization> \
 -c <config ID> \
 -d <device ID> \
-node ./test.xbox-one.js
+node ./test.watchme-demo.samsung-tv.js
