@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "interactive": "suitest interactive node test.watchme-demo.samsung-tv.js",
-    "automated": "suitest automated node test.watchme-demo.samsung-tv.js"
+    "automated": "suitest run node test.watchme-demo.xbox-one.js"
   },
   "keywords": [],
   "author": "Wizeline",
   "license": "ISC",
   "dependencies": {
-    "suitest-js-api": "^2.4.1"
+    "suitest-js-api": "^3.2.0"
   }
 }
