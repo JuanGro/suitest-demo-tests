@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "interactive": "suitest interactive node test.watchme-demo.samsung-tv.js",
-    "automated": "suitest run node test.watchme-demo.xbox-one.js"
+    "start": "suitest run node ./test.watchme-demo.samsung-tv.js"
   },
   "keywords": [],
   "author": "Wizeline",
